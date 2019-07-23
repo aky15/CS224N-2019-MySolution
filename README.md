@@ -1,2 +1,2 @@
 # CS224N-2019-MySolution
-Standford CS224n assignments - My Solution
+Stanford CS224n assignments - My Solution
